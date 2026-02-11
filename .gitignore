@@ -1,0 +1,45 @@
+# === OS / System Files ===
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS thumbnail cache
+._*
+
+# === VS Code ===
+.vscode/
+.history/
+
+# === Python / Jupyter ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.ipynb_checkpoints/
+
+# === Virtual Environments ===
+.venv/
+venv/
+env/
+
+# === Logs ===
+*.log
+
+# === Large Temp Export Files ===
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# === Node ===
+node_modules/
+dist/
+build/
+
+# === Dev container ===
+.devcontainer/.cache/
+
+# === Configuration ===
+.env
+.env.*
