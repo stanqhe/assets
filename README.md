@@ -6,9 +6,8 @@ The repository is designed to be minimal, durable, and platform-independent.
 
 ## Contents
 
-- **Portraits**Curated profile images intended for long-term public use.
-- **Photos**
-  Selected travel and life photos used for narrative and contextual purposes.
+- **Portraits**: Curated profile images intended for long-term public use.
+- **Photos**: Selected travel and life photos used for narrative and contextual purposes.
 
 All assets are published deliberately and referenced via stable URLs.
 
@@ -38,7 +37,7 @@ Commercial use or modification requires explicit permission.
 
 ## AI and Synthetic Media Notice
 
-Use of these images for:
+Use of these images for the following purposes is **explicitly prohibited**.
 
 - AI model training,
 - synthetic media generation,
@@ -46,8 +45,6 @@ Use of these images for:
 - voice pairing,
 - impersonation, or
 - creation of derivative or simulated representations
-
-is **explicitly prohibited**.
 
 This restriction applies regardless of whether such use is commercial or non-commercial.
 
